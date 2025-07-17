@@ -3,30 +3,13 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Mansi-prasad.Mansi-prasad" alt="visitor badge" />
 </p>
 
-<!-- CENTERED INTRO GIF -->
-<div align="center"> 
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-</div>
-
-###
-
-<!-- SOCIAL MEDIA BADGES -->
-<div align="center">
-  <a href="https://www.linkedin.com/in/mansi-prasad11/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn badge" />
-  </a>
-  <a href="https://github.com/Mansi-prasad/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="GitHub badge" />
-  </a>
-</div>
-
 ###
 
 <!-- CENTERED MAIN HEADER -->
 <div>
   <h1 align="center">Hello 👋, This is Mansi</h1>
-  <p>On the Path to Becoming a Full Stack Web Developer | Frontend to Backend and Everything In Between | Learning. Building. Growing.
-  </p>
+  <h4>On the Path to Becoming a Full Stack Web Developer | Frontend to Backend and Everything In Between | Learning. Building. Growing.
+  </h4>
 </div>
 
 ###
@@ -74,9 +57,24 @@ Future goals:
 
 ###  
 
-## 📫 Connect With Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/mansi-prasad11/)
-- 📧 mansi13980@gmail.com
+## 🔗 Connect With Me
+<!-- SOCIAL MEDIA BADGES -->
+  <ul>
+    <li>
+      <a href="https://www.linkedin.com/in/mansi-prasad11/" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn badge" />
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/Mansi-prasad/" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="GitHub badge" />
+      </a>
+    </li>
+    <li>
+      <a href="mailto:mansi13980@gmail.com" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Email badge" />
+      </a>
+    </li>
+  </ul>
 
 ###
