@@ -46,22 +46,34 @@ Future goals:
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
 ###
 
 ## 📊 GitHub Stats
-
-<table><tbody><tr border="none"><td width="50%" align="center">
-
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=Mansi-prasad&theme=dark&show_icons=true&count_private=true">
-
-<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=Mansi-prasad&theme=dark"></td><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=Mansi-prasad&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
+<div align="center">
+<table border="0" style="border-collapse: collapse; border: none;">
+  <tbody>
+    <tr style="border: none; width:100%">
+      <td width="50%" align="center" style="border: none; padding: 0;">
+        <div>
+          <img src="https://readme-stats-fork-mauve.vercel.app/api/?username=Mansi-prasad&theme=highcontrast&show_icons=true&count_private=true" alt="GitHub Stats">
+        </div>
+        <div style="padding-top: 30px;">
+          <img src="https://github-readme-streak-stats-five-roan.vercel.app?user=Mansi-prasad&theme=highcontrast" alt="GitHub Streak">
+        </div>
+      </td>
+      <td width="50%" align="center" style="border: none; padding: 0;">
+        <img src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=Mansi-prasad&theme=highcontrast&hide_border=false&no-bg=true&no-frame=true&langs_count=6" alt="Top Languages">
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
 
 ###  
